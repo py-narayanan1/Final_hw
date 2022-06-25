@@ -3,7 +3,7 @@ Final_hw
 
 Final homework
 
-This project is regarding the French Open 2022. The use of selenium is made to get the files dynamically . An extensive use of beautiful soups and widgets have been introduced to prepare interactive charts an helped create insightful observations from the data .
+This project is regarding the French Open 2022. The use of selenium is made to get the files dynamically . An extensive use of beautiful soups and widgets have been introduced to prepare interactive charts an helped create insightful observations from the data . The file is one jupter notebook inside the notebooks folder which has a folder final_hw inside it which has the jupyter notebook.
 
 Project Organization
 ------------
