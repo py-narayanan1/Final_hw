@@ -3,6 +3,8 @@ Final_hw
 
 Final homework
 
+This project is regarding the French Open 2022. The use of selenium is made to get the files dynamically . An extensive use of beautiful soups and widgets have been introduced to prepare interactive charts an helped create insightful observations from the data .
+
 Project Organization
 ------------
 
